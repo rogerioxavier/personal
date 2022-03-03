@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Prof. Rogério Xavier de Azambuja
 - 👀 I’m interested in Recommender Systems
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Data Models
+- 💞️ I’m looking to collaborate on Data Models and Software Engineering
 - 📫 How to reach me: https://sites.google.com/farroupilha.ifrs.edu.br/xavier/
 
 <!---
