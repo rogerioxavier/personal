@@ -1,1 +1,3 @@
-alert("Eu sou um alert!");
+!function funcao() {
+  alert('Hello World');
+}
